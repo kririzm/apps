@@ -1,0 +1,52 @@
+﻿div{
+	text-align: center;
+	
+	margin: 25px;
+
+}
+body {
+  height: 1000px; /* Используется для включения прокрутки */
+  
+ 	background: linear-gradient(90deg, #a0a0a0, #808080, #666666);
+}
+
+#menu {
+	padding-top: 100px;
+	padding: 50px;
+
+	font-size: 3em
+}
+
+a{
+	color: white; /* Цвет ссылки */
+	font-size: 2em;
+	font-weight: bold;
+	padding: 20px 0px;
+	line-height: 1;
+	text-decoration: none;
+	-webkit-transition: all 1s ease;
+	      transition: all 1s ease; /* Время изменения цвета */
+}
+a:hover{
+  color: #ffa000; /* Меняем цвет ссылки */
+}
+#video{
+	margin: 0 auto;
+	text-align: center;
+}
+
+#logo{
+	margin: 0 auto;
+	text-align: center;
+}
+
+#his{
+	margin-right: 200px;
+	margin-left: 200px;
+	color: #f8f8f8; 
+	font-family: ‘Raleway’,sans-serif; 
+	font-size: 18px; 
+	font-weight: 500; 
+	line-height: 32px; 
+
+}
